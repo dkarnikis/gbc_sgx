@@ -1,2 +1,5 @@
-# gbc_sgx
-GBC emulator running on Intel SGX
+## GBC emulator running into Intel SGX
+
+## gbc emulator can be found @ https://github.com/koenk/gbc/
+
+# sound not working for the moment
