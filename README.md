@@ -2,4 +2,4 @@
 
 ## gbc emulator can be found @ https://github.com/koenk/gbc/
 
-# sound not working for the moment
+### sound not working for the moment
